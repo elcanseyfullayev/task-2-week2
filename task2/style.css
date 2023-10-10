@@ -1,0 +1,16 @@
+/* text style */
+#text {
+    color: black;
+    text-align: center;
+    padding: 300px;
+}
+/* background image */
+body {
+    background-image: url(https://helpx.adobe.com/content/dam/help/en/photoshop/using/convert-color-image-black-white/jcr_content/main-pars/before_and_after/image-before/Landscape-Color.jpg);
+    background-repeat: no-repeat;
+    /* fit image to screen */
+    background-attachment: fixed;
+    background-size: cover;    
+}
+
+
